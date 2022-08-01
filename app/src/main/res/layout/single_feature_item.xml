@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="180dp"
+        android:scaleType="centerCrop"
+        android:id="@+id/f_img"
+        android:src="@drawable/ic_launcher_background"
+        />
+    <TextView
+        android:id="@+id/f_cost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="55$"
+        android:textSize="18sp"/>
+    <TextView
+        android:id="@+id/f_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Women's Tshirt"
+        android:textSize="18sp"/>
+
+</LinearLayout>
