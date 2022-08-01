@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214200459160",
+    "project_id": "bolt-19a6c",
+    "storage_bucket": "bolt-19a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214200459160:android:5a33975d9edd3d919d55ed",
+        "android_client_info": {
+          "package_name": "com.example.bolt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214200459160-42hk78lev4g9hug9kd8a43vqr4vcgeq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuUjhKLSEO5VRCLg1vGpUNU1UnoRrWlgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214200459160-42hk78lev4g9hug9kd8a43vqr4vcgeq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
