@@ -1,6 +1,7 @@
 # E-commere-Demo-App
 
 This app is created using Android Studio for front-end and Firebase as a backend.
+Following are the screenshots of App Working.
 
 ![image](https://user-images.githubusercontent.com/60999761/182290200-182d5f59-02e9-4ce0-bcb6-c264873436c7.png)
 ![image](https://user-images.githubusercontent.com/60999761/182290231-0df2be7b-5e2a-4032-908e-2b851f5c8d21.png)
